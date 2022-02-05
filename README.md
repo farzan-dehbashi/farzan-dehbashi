@@ -18,4 +18,4 @@ while farzan.is_alive():
 ```
 
 ## Languages and Technologies
-[![](https://img.shields.io/badge/-rust-orange?style=for-the-badge&logo=rust)](https://www.rust-lang.org/)
+[![](https://img.shields.io/badge/-python3-grey?style=for-the-badge&logo=python&logoColor=yellow)](https://www.rust-lang.org/)
