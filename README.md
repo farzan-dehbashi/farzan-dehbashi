@@ -1,4 +1,4 @@
-# Who is Farzan 🐋
+# Who is Farzan? 🐋
 
 I am a Research Assistant at the University of Waterloo. I am in love with Python! Since she is cute and powerful. 
 
