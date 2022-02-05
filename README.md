@@ -8,7 +8,7 @@ I may summerize my passion as what follows:
 ‍‍
 hii
 ```go
-go inLove([]string{"@elahe-dastan", "c", "golang", "python3", "react", "rust"})
+python inLove([]string{"@elahe-dastan", "c", "golang", "python3", "react", "rust"})
 go research([]string{"IoT"})
 
 for aLive() == true {
