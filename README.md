@@ -9,3 +9,14 @@ I may summerize my passion as what follows:
 in_love_with(['Python', 'Bash', 'C++'])
 research(['IoT', ])
 ```
+hii
+```go
+go inLove([]string{"@elahe-dastan", "c", "golang", "python3", "react", "rust"})
+go research([]string{"IoT"})
+
+for aLive() == true {
+  eat()
+  code()
+  sleep()
+}
+```
