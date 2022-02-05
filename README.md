@@ -6,9 +6,8 @@ I am a Research Assistant at the University of Waterloo. My favorite language to
 
 I may summerize my passion as what follows:
 ‍‍
-hii
-```go
-python inLove([]string{"@elahe-dastan", "c", "golang", "python3", "react", "rust"})
+```python
+python inLove([]string{ "c", "golang", "python3", "react", "rust"})
 go research([]string{"IoT"})
 
 for aLive() == true {
