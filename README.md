@@ -42,3 +42,4 @@ while farzan.is_alive():
 [![](https://img.shields.io/badge/-iperf-grey?style=for-the-badge&logo=&logoColor=white)]()
 
 ## Contact
+[![](https://img.shields.io/badge/-gmail-grey?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farzan.dehbashi95@gmail.com)
