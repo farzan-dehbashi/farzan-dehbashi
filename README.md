@@ -4,7 +4,7 @@ I am a Research Assistant at the University of Waterloo. I am in love with Pytho
 
 To be honest, before bumping into Python, I had a crush on C++ for almost 8 years, since I first got to know her as a high school student. I was into Embedded Systems programming using C++ to make things become smart. 
 
-I did my Masters in Computer Science department of the University of Waterloo, where my research was focused on my childhood passion, IoT. During my studies path, my colleagues and I invented a new method to minimize the power consumption of IoT devices ([US Patent](https://patentimages.storage.googleapis.com/a2/38/c3/7013ac293ff7c3/US20210288755A1.pdf)). Also, we published [papers](https://scholar.google.com/citations?hl=en&user=iWgKz8YAAAAJ) in the most prominent conferences in our field.
+I did my Masters in Computer Science department of the University of Waterloo, where my research was focused on my childhood passion, IoT. During my studies path, my colleagues and I invented a new method to minimize the power consumption of IoT devices ([US Patent](https://patentimages.storage.googleapis.com/a2/38/c3/7013ac293ff7c3/US20210288755A1.pdf)). Also, we published [papers](https://scholar.google.com/citations?hl=en&user=iWgKz8YAAAAJ) in some of the most prominent conferences in our field.
 
 I can summarize my passion as what follows:
 ‍‍
