@@ -1,7 +1,4 @@
-# Farzan 🐋
-
-
-## Who am I?
+# Who is Farzan 🐋
 
 I am a Research Assistant at the University of Waterloo. My favorite language to speak is Python! Since she is cute and powerful. 
 
