@@ -19,10 +19,21 @@ while farzan.is_alive():
 
 ## Languages and Technologies
 [![](https://img.shields.io/badge/-python3-grey?style=for-the-badge&logo=python&logoColor=yellow)](https://www.python.org/)
+[![](https://img.shields.io/badge/-MySQL-grey?style=for-the-badge&logo=MySQL&logoColor=white)](https://www.mysql.com/)
 [![](https://img.shields.io/badge/-bash-grey?style=for-the-badge&logo=windows%20terminal&logoColor=white)](https://www.gnu.org/software/bash/)
-[![](https://img.shields.io/badge/-++-grey?style=for-the-badge&logo=C&logoColor=white)](https://www.gnu.org/software/bash/)
+[![](https://img.shields.io/badge/-++-grey?style=for-the-badge&logo=C&logoColor=white)]()
+[![](https://img.shields.io/badge/-latex-grey?style=for-the-badge&logo=&logoColor=white)]()
 
+
+[![](https://img.shields.io/badge/-Docker-grey?style=for-the-badge&logo=Docker&logoColor=white)](https://www.docker.com/)
 [![](https://img.shields.io/badge/-Git-grey?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![]()](https://git-scm.com/)
-[![]()](https://git-scm.com/)
+[![](https://img.shields.io/badge/-Numpy-grey?style=for-the-badge&logo=NumPy&logoColor=white)](https://numpy.org/)
+[![](https://img.shields.io/badge/-Pandas-grey?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![](https://img.shields.io/badge/-Matplotlib-grey?style=for-the-badge&logo=&logoColor=white)](https://matplotlib.org/)
+[![](https://img.shields.io/badge/-PyTorch-grey?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org/)
+[![](https://img.shields.io/badge/-tkinter-grey?style=for-the-badge&logo=&logoColor=white)]()
+[![](https://img.shields.io/badge/-OpenCV-grey?style=for-the-badge&logo=OpenCV&logoColor=white)](https://opencv.org/)
+[![]()]()
+[![]()]()
+
 
