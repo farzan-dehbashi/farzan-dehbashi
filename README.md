@@ -6,10 +6,10 @@ To be honest, before bumping into Python, I had a crush on C++ for almost 8 year
 
 I did my Masters in Computer Science department of the University of Waterloo, where my reaserch was focused on my childhood passion, IoT. During my studies path, we invented a new method to minimize power consumption of IoT devices like no other technique of it's kind, and [we patented it](https://patentimages.storage.googleapis.com/a2/38/c3/7013ac293ff7c3/US20210288755A1.pdf). Also, I published [a number of papers](https://scholar.google.com/citations?hl=en&user=iWgKz8YAAAAJ) in the best confrences of our field.
 
-I may summerize my passion as what follows:
+I can summerize my passion as what follows:
 ‍‍
 ```python
-in_love_list = ['Python', 'Bash', 'C++']
+in_loves = ['Python', 'Bash', 'C++']
 research = ['IoT']
 
 while farzan.is_alive():
