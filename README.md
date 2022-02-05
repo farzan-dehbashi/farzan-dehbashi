@@ -7,6 +7,12 @@ I am a Research Assistant at the University of Waterloo. My favorite language to
 I may summerize my passion as what follows:
 ‍‍
 ```python
-list = []
-print('hi')
+in_love_list = ['Python', 'Bash', 'C++']
+research = ['IoT']
+
+while farzan_is_alive():
+  eat()
+  code()
+  learn_to_code_better()
+  sleep()
 ```
