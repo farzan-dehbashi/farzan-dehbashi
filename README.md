@@ -1,6 +1,6 @@
 # Who is Farzan? 🐋
 
-I am a Research Assistant at the University of Waterloo. I am in love with Python! Since she is cute and powerful. 
+A Research Assistant at the University of Waterloo. I am in love with Python! Since she is cute and powerful. 
 
 To be honest, before bumping into Python, I had a crush on C++ for almost 8 years, since I first got to know her as a high school student. I was into Embedded Systems programming using C++ to make things become smart. 
 
