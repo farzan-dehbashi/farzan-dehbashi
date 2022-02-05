@@ -20,3 +20,5 @@ while farzan.is_alive():
 ## Languages and Technologies
 [![](https://img.shields.io/badge/-python3-grey?style=for-the-badge&logo=python&logoColor=yellow)](https://www.python.org/)
 [![](https://img.shields.io/badge/-bash-grey?style=for-the-badge&logo=windows%20terminal&logoColor=white)](https://www.gnu.org/software/bash/)
+[![](https://img.shields.io/badge/-++-grey?style=for-the-badge&logo=C&logoColor=white)](https://www.gnu.org/software/bash/)
+
