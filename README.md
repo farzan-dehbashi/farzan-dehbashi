@@ -10,7 +10,7 @@ I can summarize my passion as what follows:
 ‍‍
 ```python
 in_loves = ['Python', 'Bash', 'C++']
-research = ['IoT']
+research = ['IoT', 'Embedded Systems']
 
 while farzan.is_alive():
   code()
