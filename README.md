@@ -4,12 +4,14 @@ A Research Assistant at the University of Waterloo. I am in love with Python! Si
 
 To be honest, before bumping into Python, I had a crush on C++ for almost 8 years, since I first got to know her as a high school student. I was into Embedded Systems programming using C++ to make things become smart. 
 
+I also like Java. Since it is much easier for me to implement large-scale applications using strict rules of this language compared to others like Python.
+
 I did my Masters in Computer Science department of the University of Waterloo, where my research was focused on my childhood passion, IoT. During my studies path, my colleagues and I invented a new method to minimize the power consumption of IoT devices ([US Patent](https://patentimages.storage.googleapis.com/a2/38/c3/7013ac293ff7c3/US20210288755A1.pdf)). Also, we published [papers](https://scholar.google.com/citations?hl=en&user=iWgKz8YAAAAJ) in some of the most prominent conferences in our field.
 
 I can summarize my passion as what follows:
 ‍‍
 ```python
-in_loves = ['Python', 'Bash', 'C++']
+in_loves = ['Python', 'Java', 'Bash', 'C++']
 research = ['IoT', 'Embedded Systems']
 
 while farzan.is_alive():
