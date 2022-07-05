@@ -15,14 +15,14 @@ in_loves = ['Python', 'Javascript', 'Bash', 'Java']
 research = ['IoT', 'Embedded Systems']
 
 while farzan.is_alive():
-  eat()
   code()
-  eat()
-  read()
   eat()
   code()
   sleep()
 ```
+
+My things:
+https://www.goodreads.com/user/show/51515890-farzan
 
 ## Languages and Technologies
 [![](https://img.shields.io/badge/-python3-grey?style=for-the-badge&logo=python&logoColor=yellow)](https://www.python.org/)
