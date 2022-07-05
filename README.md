@@ -1,4 +1,4 @@
-# Who is Farzan? 🦦
+# Who is Farzan? 🐋
 
 A Research Assistant at the University of Waterloo. I am in love with Python! Since she is cute and powerful. 
 
@@ -11,13 +11,16 @@ I did my Masters in Computer Science department of the University of Waterloo, w
 I can summarize my passion as what follows:
 ‍‍
 ```python
-in_loves = ['Python', 'Java', 'Bash', 'C++']
+in_loves = ['Python', 'Javascript', 'Bash', 'Java']
 research = ['IoT', 'Embedded Systems']
 
 while farzan.is_alive():
+  eat()
   code()
   eat()
-  learn_to_code_better()
+  read()
+  eat()
+  code()
   sleep()
 ```
 
