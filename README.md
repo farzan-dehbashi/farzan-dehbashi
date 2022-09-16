@@ -52,7 +52,8 @@ https://www.goodreads.com/user/show/51515890-farzan
 
 
 <p align="center">
+  <a href="https://github.com/drknzz"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farzan-dehbashi&theme=dark&hide=html,css,cmake,jupyter-notebook,tex,scss&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
     <a href="https://leetcode.com/drknzz/"><img width="48%" src="https://leetcode.card.workers.dev/farzanDb?theme=auto&font=source_code_pro&extension=null"></a>
-    <a href="https://github.com/drknzz"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farzan-dehbashi&theme=dark&hide=html,css,cmake,jupyter-notebook,tex,scss&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
+    
 </p>
 
