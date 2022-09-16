@@ -52,7 +52,7 @@ https://www.goodreads.com/user/show/51515890-farzan
 
 
 <p align="center">
-    <a href="https://leetcode.com/drknzz/"><img width="48%" src="h[ttps://leetcode.card.workers.dev/drknzz?theme=dark&font=baloo&extension=null&border=2&border_radius=8](https://leetcode.card.workers.dev)"></a>
+    <a href="https://leetcode.com/drknzz/"><img width="48%" src="[h[ttps://leetcode.card.workers.dev/drknzz?theme=dark&font=baloo&extension=null&border=2&border_radius=8](https://leetcode.card.workers.dev)](https://leetcode.card.workers.dev/farzanDb?theme=auto&font=source_code_pro&extension=null)"></a>
     <a href="https://github.com/drknzz"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drknzz&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
 </p>
 
