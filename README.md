@@ -1,6 +1,6 @@
 # Who is Farzan? 🐋
 
-A Research Assistant at the University of Waterloo. I am in love with Python! Since she is cute and powerful. 
+A Software Engineer at Achievers inc. I am in love with my job! Which enables me to learn things on a daily basis. 
 
 To be honest, before bumping into Python, I had a crush on C++ for almost 8 years, since I first got to know her as a high school student. I was into Embedded Systems programming using C++ to make things become smart. 
 
@@ -11,8 +11,7 @@ I did my Masters in Computer Science department of the University of Waterloo, w
 I can summarize my passion as what follows:
 ‍‍
 ```python
-in_loves = ['Python', 'Javascript', 'Bash', 'Java']
-research = ['IoT', 'Embedded Systems']
+in_loves = ['Go', 'Python', 'Javascript', 'Bash', 'Java']
 
 while farzan.is_alive():
   code()
